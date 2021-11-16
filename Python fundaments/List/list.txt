@@ -1,0 +1,18 @@
+In Python, a list is created by placing elements inside square brackets [],
+ separated by commas.
+
+ A list can have any number of items and they may be of different types (integer, float, string, etc.)
+
+ Integer = +ve and -ve numbers are known as integer
+
+ float = Number Which usually has a decimal point
+
+ String = check other floders boiiiii
+
+ Nested list : A list can also have another list as an item. 
+ eg: check listexamples.py
+
+
+YOU CANNOT INDEX LIST WITH FLOATS.
+
+
