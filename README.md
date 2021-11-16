@@ -1,3 +1,40 @@
 # Suman
-JUST KINDA SUS CODES 
-dont copy or Dieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+SOOOOOOOOOOOOOOO JUST UNCODED BY SUMAN BISWAS
+
+ mmmm  m    m m    m   mm   mm   m
+ #"   " #    # ##  ##   ##   #"m  #
+ "#mmm  #    # # ## #  #  #  # #m #
+     "# #    # # "" #  #mm#  #  # #
+ "mmm#" "mmmm" #    # #    # #   ##
+
+mmmmm  mmmmm   mmmm m     m   mm    mmmm 
+ #    #   #    #"   "#  #  #   ##   #"   "
+ #mmmm"   #    "#mmm " #"# #  #  #  "#mmm 
+ #    #   #        "# ## ##"  #mm#      "#
+ #mmmm" mm#mm  "mmm#" #   #  #    # "mmm#"
+
+
+
+
+mmm     mmmm   mmmm  mmmmm  mmmmm   mmmm mmmmmmm
+   #    #"  "m #"  "m #      #    # m"  "m   #   
+   #    #m  m# #m  m# """"mm #mmmm" #    #   #   
+   #     """ #  """ #      # #    # #    #   #   
+ mm#mm  "mmm"  "mmm"  "mmm#" #mmmm"  #mm#    # 
+ 
+ 
+ 
+ ___ _   _ _ __ ___   __ _ _ __   | |__ (_)_____      ____ _ ___ 
+/ __| | | | '_ ` _ \ / _` | '_ \  | '_ \| / __\ \ /\ / / _` / __|
+\__ \ |_| | | | | | | (_| | | | | | |_) | \__ \\ V  V / (_| \__ \
+|___/\__,_|_| |_| |_|\__,_|_| |_| |_.__/|_|___/ \_/\_/ \__,_|___/
+
+_  ___   ___  ____  ____   ___ _____ 
+/ |/ _ \ / _ \| ___|| __ ) / _ \_   _|
+| | (_) | (_) |___ \|  _ \| | | || |  
+| |\__, |\__, |___) | |_) | |_| || |  
+|_|  /_/   /_/|____/|____/ \___/ |_|  
+                                    
+
+
+
