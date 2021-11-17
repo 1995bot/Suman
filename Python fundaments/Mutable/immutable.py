@@ -1,0 +1,1 @@
+print("Objects of built-in types like (int, float, bool, str, tuple, unicode) are immutable")

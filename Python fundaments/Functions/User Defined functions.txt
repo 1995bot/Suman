@@ -1,0 +1,2 @@
+Functions that we define ourselves to do certain specific task are referred as user-defined functions. 
+The way in which we define and call functions in Python.

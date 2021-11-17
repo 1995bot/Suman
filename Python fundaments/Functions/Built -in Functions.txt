@@ -1,0 +1,14 @@
+print( ) function.
+type( ) function.
+input( ) function.
+abs( ) function.
+pow( ) function.
+dir( ) function.
+sorted( ) function.
+round( ) function
+divmod( ) function
+id( ) function
+ord( ) function
+len( ) function
+sum( ) function
+help( ) function

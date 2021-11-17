@@ -1,0 +1,1 @@
+print("Objects of built-in types like (list, set, dict) are mutable")
